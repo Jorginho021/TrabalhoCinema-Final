@@ -63,23 +63,7 @@ ProjetoCinema/
 ---
 
 ## ⚙️ Como Executar
-
-1. Baixe ou clone o projeto
-2. Coloque na pasta do servidor (ex: htdocs do XAMPP)
-3. Crie o banco de dados importando:
-   database/dump.sql
-4. Configure a conexão em:
-   config/conexao.php
-5. Acesse no navegador:
-   http://localhost/ProjetoCinema/
-
----
-
-## 🔑 Acesso
-
-- Cadastro: public/cadastro.php  
-- Login: public/login.php  
-
+Acessando o Link: https://jorge021.infinityfree.me/public/index.php
 ---
 
 ## 🧠 Tecnologias Utilizadas
